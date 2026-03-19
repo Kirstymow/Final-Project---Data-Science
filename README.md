@@ -32,7 +32,7 @@ This project was completed as part of my Data Science studies at UAL.
 ---
 
 ## 📈 What I did
-- Filtered data for 2019
+- Filtered data for 2019/20
 - Selected countries for comparison
 - Grouped data by country
 - Calculated total suicide rates
