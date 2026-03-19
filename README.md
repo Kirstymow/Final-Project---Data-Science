@@ -1,4 +1,4 @@
-# 📊 Global Suicide Rate Analysis (2019)
+# 📊 Global Suicide Rate Analysis 
 
 ## 🚀 Project Overview
 This project explores global suicide rate data to identify patterns across countries using Python.
