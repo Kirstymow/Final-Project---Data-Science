@@ -1,60 +1,61 @@
-# 📊 Global Suicide Rate Analysis (2019)📌
+# Global Suicide Rate Analysis 
 
-## Overview
-This project investigates the socio-economic factors influencing suicide rates globally. By analysing a dataset of 27k+ rows, I identified key correlations between GDP, generation, and demographic trends to answer the question: What story does the data tell about mental health over three decades?
+## Motivation
+Mental health is a subject I am deeply passionate about, and this project serves as a data-driven exploration of a critical global issue. I specifically chose to focus on the year 2019 to establish a baseline of global suicide rates immediately preceding the COVID-19 pandemic. Understanding these pre-pandemic figures is vital for researchers and policy-makers to measure the subsequent impact of global lockdowns and socio-economic shifts on mental health. By analysing this data, I aim to highlight the demographics most in need of support and intervention.
 
-## 🔍 Key Insights
-Economic Correlation: Higher GDP per capita doesn't always correlate with lower suicide rates, suggesting complex social factors are at play.
+## Key Insights
+Economic Correlation: Higher GDP per capita does not always correlate with lower suicide rates. This suggests that complex social, cultural, and systemic factors often play a more significant role than purely economic indicators.
 
-Demographic Peaks: Identified specific age groups (35-54) as the highest-risk demographic across most developed nations.
+Demographic Peaks: Individuals in the 35–54 age group were identified as the highest-risk demographic across the majority of developed nations in 2019.
 
-Gender Gap: Data consistently shows a significant disparity in rates between male and female demographics globally.
----
+Gender Disparity: The data consistently reveal a significant disparity in rates between male and female demographics globally, underscoring the necessity for gender-specific mental health resources.
 
-## 🧠 Project Overview
+## Project Objectives
+In this project, I performed a comprehensive analysis of global health data to uncover hidden patterns. My workflow included:
 
-In this project, I:
-- Cleaned and filtered real-world data
-- Analysed suicide rates across selected countries
-- Grouped and summarised data using Pandas
-- Created visualisations to compare trends
+- Cleaning and filtering large-scale, real-world datasets for accuracy.
 
----
+- Analysing suicide rates across prioritised countries and regions.
 
-## ⚙️ Tools & Technologies
+- Utilising Pandas for complex data grouping, aggregation, and statistical summarisation.
 
-- Python
-- Pandas
-- Matplotlib / Seaborn
-- Jupyter Notebook
+- Developing clear, impactful visualisations to communicate findings effectively.
 
----
+## Tools and Technologies
+- Python: Core programming language for data logic.
 
-## 📁 Dataset
+- Pandas: For data manipulation and cleaning.
 
-The dataset was sourced from the WHO Global Health Observatory.  
-It was cleaned and filtered to focus on the year **2019** and a selection of countries for clearer analysis.
+- Matplotlib & Seaborn: For static data visualisation and trend analysis.
 
----
+- Plotly: For developing interactive geospatial maps.
 
-## 📊 Key Features
+- Jupyter Notebook: Development environment for documented analysis.
 
-- Data filtering by year (2019)
-- Country-level analysis
-- Aggregation of suicide rates
-- Visual comparison using charts
+## Dataset
+The dataset was sourced from the World Health Organisation (WHO) Global Health Observatory. The raw data, containing over 27,000 records, was cleaned and filtered to focus on 2019. This provides a clear "snapshot" of the global mental health landscape before the onset of the 2020 pandemic.
 
----
+## Key Features
+- Data Filtering: Isolated 2019 data for a focused pre-COVID baseline analysis.
 
-## 🚀 What I Learned
+- Country-Level Aggregation: Summarised rates to identify geographic outliers and high-risk regions.
 
-- How to work with real-world datasets
-- Data cleaning and preparation
-- Data analysis using Pandas
-- Creating clear and meaningful visualisations
+- Demographic Segmentation: Detailed analysis of rates across various age groups and genders.
 
+- Visual Analysis: Used comparative charts to illustrate the socio-economic "story" behind the numbers.
 
-## 📸 Visualizations 
+## Learning Outcomes
+– Proficiency in handling and cleaning sensitive, real-world public health datasets.
 
+- Advanced skills in data preparation, including standardising column headers and managing inconsistencies.
+
+– Ability to translate complex statistical data into meaningful visual narratives.
+
+## Visualizations 
+
+Demo of the map
 ![Map_demo](https://github.com/user-attachments/assets/4f219ed5-1942-4039-ae18-e20fe294fb45)
+
+
+
 
