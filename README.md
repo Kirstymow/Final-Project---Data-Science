@@ -1,52 +1,56 @@
-# 📊 Global Suicide Rate Analysis 
+# 📊 Global Suicide Rate Analysis (2019)
 
-## 🚀 Project Overview
-This project explores global suicide rate data to identify patterns across countries using Python.
-
-This project was completed as part of my Data Science studies at UAL.
+This project explores global suicide rates using data from the World Health Organisation (WHO).  
+The goal was to analyse trends across different countries and present insights using Python.
 
 ---
 
-## 🧠 What this project demonstrates
-- Data cleaning and filtering using Pandas
-- Grouping and aggregating data
-- Data visualisation with Seaborn
-- Working with real-world datasets
+## 🧠 Project Overview
+
+In this project, I:
+- Cleaned and filtered real-world data
+- Analysed suicide rates across selected countries
+- Grouped and summarised data using Pandas
+- Created visualisations to compare trends
 
 ---
 
-## 🛠️ Tools Used
+## ⚙️ Tools & Technologies
+
 - Python
 - Pandas
-- Seaborn
-- Matplotlib
+- Matplotlib / Seaborn
 - Jupyter Notebook
 
 ---
 
-## 📁 Project Structure
-- `music_mental_health_analysis/` → main project folder
-  - `Data 2.csv` → dataset used
-  - `Suicide rates data.ipynb` → analysis notebook
+## 📁 Dataset
+
+The dataset was sourced from the WHO Global Health Observatory.  
+It was cleaned and filtered to focus on the year **2019** and a selection of countries for clearer analysis.
 
 ---
 
-## 📈 What I did
-- Filtered data for 2019/20
-- Selected countries for comparison
-- Grouped data by country
-- Calculated total suicide rates
-- Created visualisations using Seaborn
+## 📊 Key Features
+
+- Data filtering by year (2019)
+- Country-level analysis
+- Aggregation of suicide rates
+- Visual comparison using charts
 
 ---
 
-## 💡 What I learned
+## 🚀 What I Learned
+
+- How to work with real-world datasets
 - Data cleaning and preparation
-- Working with datasets in Python
-- Creating clear visualisations
-- Structuring a data analysis project
+- Data analysis using Pandas
+- Creating clear and meaningful visualisations
 
 ---
 
-## 👩🏽‍💻 Author
-Kirsty Mowatt
+## 📌 Future Improvements
+
+- Expand analysis across multiple years
+- Include more countries
+- Add interactive dashboards (Plotly / Tableau)
