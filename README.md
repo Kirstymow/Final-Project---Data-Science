@@ -55,16 +55,6 @@ It was cleaned and filtered to focus on the year **2019** and a selection of cou
 
 
 ## 📸 Visualizations 
-<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/dbcd2b5b-e549-454d-816d-ad1638711191" />
 
-<img width="1490" height="790" alt="image" src="https://github.com/user-attachments/assets/71355757-2a0f-4203-9e33-50dd78513616" />
+![Map_demo](https://github.com/user-attachments/assets/4f219ed5-1942-4039-ae18-e20fe294fb45)
 
-<img width="1490" height="790" alt="image" src="https://github.com/user-attachments/assets/bc28ce3e-dd22-48a2-a0de-3e1a9438c671" />
-
-<img width="790" height="405" alt="image" src="https://github.com/user-attachments/assets/0d5084eb-f490-426c-991d-892fcf04dc94" />
-
-<img width="790" height="405" alt="image" src="https://github.com/user-attachments/assets/b6d5c9e5-01d5-4dda-b074-51710bb02470" />
-
-<img width="790" height="405" alt="image" src="https://github.com/user-attachments/assets/0af60285-c137-49d3-aedd-5a7c912cf871" />
-
-<img width="790" height="427" alt="image" src="https://github.com/user-attachments/assets/519f8f65-9a40-4391-a305-567c1b539937" />
