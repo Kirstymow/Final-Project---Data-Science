@@ -1,8 +1,14 @@
-# 📊 Global Suicide Rate Analysis (2019)
+# 📊 Global Suicide Rate Analysis (2019)📌
 
-This project explores global suicide rates using data from the World Health Organisation (WHO).  
-The goal was to analyse trends across different countries and present insights using Python.
+## Overview
+This project investigates the socio-economic factors influencing suicide rates globally. By analysing a dataset of 27k+ rows, I identified key correlations between GDP, generation, and demographic trends to answer the question: What story does the data tell about mental health over three decades?
 
+## 🔍 Key Insights
+Economic Correlation: Higher GDP per capita doesn't always correlate with lower suicide rates, suggesting complex social factors are at play.
+
+Demographic Peaks: Identified specific age groups (35-54) as the highest-risk demographic across most developed nations.
+
+Gender Gap: Data consistently shows a significant disparity in rates between male and female demographics globally.
 ---
 
 ## 🧠 Project Overview
@@ -47,10 +53,18 @@ It was cleaned and filtered to focus on the year **2019** and a selection of cou
 - Data analysis using Pandas
 - Creating clear and meaningful visualisations
 
----
 
-## 📌 Future Improvements
+## 📸 Visualizations 
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/dbcd2b5b-e549-454d-816d-ad1638711191" />
 
-- Expand analysis across multiple years
-- Include more countries
-- Add interactive dashboards (Plotly / Tableau)
+<img width="1490" height="790" alt="image" src="https://github.com/user-attachments/assets/71355757-2a0f-4203-9e33-50dd78513616" />
+
+<img width="1490" height="790" alt="image" src="https://github.com/user-attachments/assets/bc28ce3e-dd22-48a2-a0de-3e1a9438c671" />
+
+<img width="790" height="405" alt="image" src="https://github.com/user-attachments/assets/0d5084eb-f490-426c-991d-892fcf04dc94" />
+
+<img width="790" height="405" alt="image" src="https://github.com/user-attachments/assets/b6d5c9e5-01d5-4dda-b074-51710bb02470" />
+
+<img width="790" height="405" alt="image" src="https://github.com/user-attachments/assets/0af60285-c137-49d3-aedd-5a7c912cf871" />
+
+<img width="790" height="427" alt="image" src="https://github.com/user-attachments/assets/519f8f65-9a40-4391-a305-567c1b539937" />
